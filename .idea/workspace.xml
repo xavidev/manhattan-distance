@@ -7,7 +7,6 @@
     <list default="true" id="a4d3d771-6458-403a-a228-59df324f1e12" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/ManhattanTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/ManhattanTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Point/Point.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Point/Point.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="Point" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ManhattanTest.distance between horizontal points">
+  <component name="RunManager" selected="Gradle.ManhattanTest.test same point">
     <configuration name="ManhattanTest.distance between horizontal points" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -101,29 +100,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ManhattanTest.distance between positive points&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ManhattanTest.distance between same points" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;ManhattanTest.distance between same points&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -179,13 +155,36 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ManhattanTest.test same point" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ManhattanTest.test same point&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ManhattanTest.test same point" />
         <item itemvalue="Gradle.ManhattanTest.distance between horizontal points" />
         <item itemvalue="Gradle.ManhattanTest.distance between positive points" />
         <item itemvalue="Gradle.ManhattanTest.test distance between extreme points" />
         <item itemvalue="Gradle.ManhattanTest.distance between two equivalents points" />
-        <item itemvalue="Gradle.ManhattanTest.distance between same points" />
       </list>
     </recent_temporary>
   </component>
